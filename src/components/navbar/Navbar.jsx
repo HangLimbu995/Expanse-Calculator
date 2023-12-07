@@ -21,7 +21,7 @@ const Navbar = () => {
 
 
     return (
-        <nav className="bg-gray-800 flex align-center justify-between p-3">
+        <nav className="bg-[#041C30] flex align-center justify-between p-3">
             <div className='flex align-center md:ml-[90px]' >
                 <Link to='/' className='text-2xl text-white' >Logo</Link>
             </div>
